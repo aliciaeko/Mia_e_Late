@@ -29,7 +29,7 @@ Supervisionado pela professora Karla Correa.
 <a id="sobre"></a>
 ## 🧐 Sobre
 
-Uma página desenvolvida em HTML + JS + CSS, com a finalidade de mostrar efeitos de animação no mouse (modificando o ponteiro) e animação de flores caindo, as folhas foram desenhadas na Ferramenta Figma, e o background também feito na mesma ferramenta.
+Uma página desenvolvida em HTML + JS + CSS, com a finalidade de aprendizagem.
 O deploy está esponível **[DEPLOY AQUI](#)**
 </p>
 
