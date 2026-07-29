@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Mia & Late Moda Pet</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+    <button id="btnEntrar" onclick="boasVindas()">
+        Entrar na Loja
+    </button>
+
+    <button id="btnCor" onclick="trocarCor()">
+        Trocar cor do fundo
+    </button>
+
+<div id="conteudo" style="display:none;">
+
+    <h1 id="titulo">Mia & Late Moda Pet 🐶🐱</h1>
+
+    <p>As melhores roupas para o seu melhor amigo!</p>
+
+    <button onclick="mostrarProdutos()">
+        Ver Produtos
+    </button>
+
+    <div id="produtos">
+
+    <div class="produto"
+         onclick="promocao('Camiseta Pet',49.90)">
+
+        <img src="img/produto1.png" alt="Camiseta Pet">
+
+        <h3>Camiseta Pet</h3>
+
+    </div>
+
+    <div class="produto"
+         onclick="promocao('Vestido Pet',69.90)">
+
+        <img src="img/produto2.png" alt="Vestido Pet">
+
+        <h3>Vestido Pet</h3>
+
+    </div>
+
+    <div class="produto"
+         onclick="promocao('Coleira Luxo',39.90)">
+
+        <img src="img/produto3.png" alt="Coleira Luxo">
+
+        <h3>Coleira Luxo</h3>
+
+    </div>
+
+    <div class="produto"
+         onclick="promocao('Casaco Pet',89.90)">
+
+        <img src="img/produto4.png" alt="Casaco Pet">
+ 
+        <h3>Casaco Pet</h3>
+
+    </div>
+
+    </div>
+	
+    <footer>
+        <p>&copy; 2026 Mia & Late - Todos os direitos reservados.</p>
+    </footer>
+
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>

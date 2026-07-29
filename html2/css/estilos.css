@@ -1,0 +1,119 @@
+#btnEntrar
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px 30px;
+    font-size: 18px;
+}
+
+#btnCor
+{
+
+    position: fixed;
+
+    bottom: 20px;
+
+    right: 20px;
+
+    padding: 8px 12px;
+
+    font-size: 14px;
+
+}
+
+body
+{
+
+    font-family: Arial;
+    text-align:center;
+
+    background:linear-gradient(to right,#ffe600,#eb7406);
+
+    margin:0;
+    padding:40px;
+}
+
+button
+{
+
+    padding:15px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+#produtos
+{
+
+    display:none;
+
+    margin-top:30px;
+}
+
+.produto
+{
+
+    display:inline-block;
+
+    width:180px;
+
+    background:white;
+
+    margin:15px;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    transition:0.3s;
+
+    cursor:pointer;
+}
+
+.produto:hover
+{
+
+    transform:scale(1.1);
+}
+.produto
+{
+
+    display:inline-block;
+
+    width:200px;
+
+    background:white;
+
+    margin:15px;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    transition:0.3s;
+
+    cursor:pointer;
+
+    text-align:center;
+}
+
+.produto img
+{
+
+    width:150px;
+
+    height:150px;
+
+    object-fit:cover;
+
+    border-radius:10px;
+}
+
+.produto:hover
+{
+
+    transform:scale(1.1);
+}
