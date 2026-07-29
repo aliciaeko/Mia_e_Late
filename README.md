@@ -1,9 +1,9 @@
 # Landipage "Mia e Late"
 Participação para atividade do curso de lógica da programação do SENAI. 
 
-Página feita para homenagear a professora que salvou muitas crianças, porém morreu salvando vidas, mulher, mãe professora, uma heroína!
+Supervisionado pela professora Karla Correa.
 
-# Página in memorian
+# Print da página 
 <h3 align="center">
    <img alt="Loja Mia $ Late" title="#logo" src="https://github.com/aliciaeko/Mia_e_Late/blob/main/html2/img/print.png">
    <br><br>
