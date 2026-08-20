@@ -42,8 +42,7 @@ O deploy está esponível **[DEPLOY AQUI](#)**
 
 O projeto foi desenvolvido com a stack **[Bloco de Notas / VSCODE](#)**
 Para desenvolver basta criar um usuário, logar, file new. 
-Adicione três páginas:
-1ª Ui-Design | 2º Componentes | 2ª Design System
+
 
 
 
@@ -52,5 +51,5 @@ Adicione três páginas:
 <h4 align="center">
     Feito com 🧡 by <a href="" target="_blank">Alícia</a>
 </h4>
->>>
+
 
