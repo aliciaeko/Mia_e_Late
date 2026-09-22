@@ -1,4 +1,4 @@
-# Landipage "Mia e Late"
+# Landpage "Mia e Late"
 Participação para atividade do curso de lógica da programação do SENAI. 
 
 Supervisionado pela professora Karla Correa.
@@ -49,7 +49,7 @@ Para desenvolver basta criar um usuário, logar, file new.
 
 
 <h4 align="center">
-    Feito com 🧡 by <a href="" target="_blank">Alícia</a>
+    Feito com 🧡 by <a href="" target="_blank">Alícia Eko</a>
 </h4>
 
 
