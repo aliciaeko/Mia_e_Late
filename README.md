@@ -5,7 +5,7 @@ Supervisionado pela professora Karla Correa.
 
 # Print da página 
 <h3 align="center">
-   <img alt="Loja Mia $ Late" title="#logo" src="./img/print.png">
+   <img alt="Loja Mia $ Late" title="#logo" src="https://github.com/aliciaeko/Mia_e_Late/blob/main/html2/img/print.png">
    <br><br>
    <b>Foi feita uma simples página para praticar JavaScript</b>  
 <b> </b>
